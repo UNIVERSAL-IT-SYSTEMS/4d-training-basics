@@ -1,0 +1,14 @@
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Desktop:Database Information:v11:Database Information.4dbase:Database Information[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:Desktop:Database Information:v11:Database Information.4dbase:Database Information[0000].4BL
+Scheduled : 11.01.11 00:26:43
+Starting : 11.01.11 00:26:43
+Ending : 11.01.11 00:26:43
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Desktop:Database Information:v12:Database Information.4dbase:Database Information[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:Desktop:Database Information:v12:Database Information.4dbase:Database Information[0000].4BL
+Scheduled : 11.01.11 00:29:09
+Starting : 11.01.11 00:29:09
+Ending : 11.01.11 00:29:09
+

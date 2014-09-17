@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<verifylog operation="Compact" name="Post" structure="Macintosh HD:Users:miyako:Desktop:Post:05:Post.4dbase:Post.4DB" data="Macintosh HD:Users:miyako:Desktop:Post:05:Post.4dbase:Post.4DD" os="Mac OS X (10.6.6)">
+<start_timer time="2011-01-11T05:44:22+09:00"/>
+<step title="メンテナンスモードでデータベースを開いています">
+</step>
+<step title="圧縮">
+	<step title="自動シーケンス番号定義を圧縮中">
+	</step>
+	<step title="データテーブルをロード中">
+		<step title="データテーブルヘッダを圧縮中">
+		</step>
+	</step>
+	<step title="テーブル Resources のBLOBを圧縮中">
+	</step>
+	<step title="テーブル Resources のレコードを圧縮中">
+	</step>
+	<step title="テーブル [Table#2] のBLOBを圧縮中">
+	</step>
+	<step title="テーブル [Table#2] のレコードを圧縮中">
+	</step>
+	<step title="インデックス定義を圧縮中">
+		<step title="インデックス B-tree インデックス0  kind (TYPE only) を圧縮中">
+			<step title="B-tree インデックス0  kind (TYPE only) のインデックスページアドレスを圧縮中">
+			</step>
+			<step title="B-tree インデックス0  kind (TYPE only) のインデックスページを圧縮中">
+			</step>
+		</step>
+		<step title="インデックス B-tree インデックス1  stamp (stamp) を圧縮中">
+			<step title="B-tree インデックス1  stamp (stamp) のインデックスページアドレスを圧縮中">
+			</step>
+			<step title="B-tree インデックス1  stamp (stamp) のインデックスページを圧縮中">
+			</step>
+		</step>
+		<step title="インデックス B-tree インデックス2  kind , id (TYPE and ID) を圧縮中">
+			<step title="B-tree インデックス2  kind , id (TYPE and ID) のインデックスページアドレスを圧縮中">
+			</step>
+			<step title="B-tree インデックス2  kind , id (TYPE and ID) のインデックスページを圧縮中">
+			</step>
+		</step>
+	</step>
+	<step title="自動シーケンス番号定義を圧縮中">
+	</step>
+	<step title="データテーブル定義を圧縮中">
+	</step>
+	<step title="データテーブル定義を圧縮中">
+	</step>
+	<step title="リレーション定義を圧縮中">
+	</step>
+	<step title="バックアップインデックス定義を圧縮中">
+	</step>
+	<step title="データテーブルをロード中">
+		<step title="データテーブルヘッダを圧縮中">
+		</step>
+	</step>
+	<step title="テーブル Table_1 のBLOBを圧縮中">
+	</step>
+	<step title="テーブル Table_1 のレコードを圧縮中">
+	</step>
+	<step title="テーブル Table_2 のBLOBを圧縮中">
+	</step>
+	<step title="テーブル Table_2 のレコードを圧縮中">
+	</step>
+	<step title="テーブル 郵便番号 のBLOBを圧縮中">
+	</step>
+	<step title="テーブル 郵便番号 のレコードを圧縮中">
+	</step>
+	<step title="テーブル 都道府県 のBLOBを圧縮中">
+	</step>
+	<step title="テーブル 都道府県 のレコードを圧縮中">
+	</step>
+	<step title="テーブル 市区町村 のBLOBを圧縮中">
+	</step>
+	<step title="テーブル 市区町村 のレコードを圧縮中">
+	</step>
+	<step title="テーブル 旧郵便番号 のBLOBを圧縮中">
+	</step>
+	<step title="テーブル 旧郵便番号 のレコードを圧縮中">
+	</step>
+	<step title="インデックス定義を圧縮中">
+		<step title="インデックス B-tree インデックス0  旧郵便番号.UID を圧縮中">
+			<step title="B-tree インデックス0  旧郵便番号.UID のインデックスページアドレスを圧縮中">
+			</step>
+			<step title="B-tree インデックス0  旧郵便番号.UID のインデックスページを圧縮中">
+			</step>
+		</step>
+		<step title="インデックス クラスタインデックス1  郵便番号.市区町村 を圧縮中">
+			<step title="クラスタインデックス1  郵便番号.市区町村 のインデックスページアドレスを圧縮中">
+			</step>
+			<step title="クラスタインデックス1  郵便番号.市区町村 のクラスタを圧縮中">
+			</step>
+			<step title="クラスタインデックス1  郵便番号.市区町村 のインデックスページを圧縮中">
+			</step>
+		</step>
+		<step title="インデックス B-tree インデックス2  市区町村.UID を圧縮中">
+			<step title="B-tree インデックス2  市区町村.UID のインデックスページアドレスを圧縮中">
+			</step>
+			<step title="B-tree インデックス2  市区町村.UID のインデックスページを圧縮中">
+			</step>
+		</step>
+		<step title="インデックス B-tree インデックス3  都道府県.UID を圧縮中">
+			<step title="B-tree インデックス3  都道府県.UID のインデックスページアドレスを圧縮中">
+			</step>
+			<step title="B-tree インデックス3  都道府県.UID のインデックスページを圧縮中">
+			</step>
+		</step>
+		<step title="インデックス クラスタインデックス4  郵便番号.旧郵便番号 を圧縮中">
+			<step title="クラスタインデックス4  郵便番号.旧郵便番号 のインデックスページアドレスを圧縮中">
+			</step>
+			<step title="クラスタインデックス4  郵便番号.旧郵便番号 のクラスタを圧縮中">
+			</step>
+			<step title="クラスタインデックス4  郵便番号.旧郵便番号 のインデックスページを圧縮中">
+			</step>
+		</step>
+	</step>
+	<step title="元のファイルを移動">
+<move from="Macintosh HD:Users:miyako:Desktop:Post:05:Post.4dbase:Post.4DD" to="Macintosh HD:Users:miyako:Desktop:Post:05:Post.4dbase:Replaced Files (Compacting) 2011-01-11 05-44-22:Post.4DD">
+</move>	</step>
+	<step title="新しいファイルをもとの場所に移動">
+<move from="Macintosh HD:Users:miyako:Desktop:Post:05:Post.4dbase:Replaced Files (Compacting) 2011-01-11 05-44-22:_Post.4DD" to="Macintosh HD:Users:miyako:Desktop:Post:05:Post.4dbase:Post.4DD">
+</move>	</step>
+	<step title="元のインデックスを移動">
+<move from="Macintosh HD:Users:miyako:Desktop:Post:05:Post.4dbase:Post.4DIndx" to="Macintosh HD:Users:miyako:Desktop:Post:05:Post.4dbase:Replaced Files (Compacting) 2011-01-11 05-44-22:Post.4DIndx">
+</move>	</step>
+	<step title="新しいインデックスファイルをもとの場所に移動">
+<move from="Macintosh HD:Users:miyako:Desktop:Post:05:Post.4dbase:Replaced Files (Compacting) 2011-01-11 05-44-22:_Post.4DIndx" to="Macintosh HD:Users:miyako:Desktop:Post:05:Post.4dbase:Post.4DIndx">
+</move>	</step>
+</step>
+<stop_timer time="2011-01-11T05:44:32+09:00" success="true" user_canceled="false"/>
+</verifylog>
